@@ -270,6 +270,9 @@ header.hero{
     background-repeat: no-repeat;
     overflow:hidden;
 }
+img.img {
+    height: 100px;
+}
 header.hero .container{
     position: relative;
 }
